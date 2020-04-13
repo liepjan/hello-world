@@ -1,5 +1,7 @@
 Initial line #1
 Initial line #2
 Initial line #3
-Initial line #4
+  second addition line #21
+  second addition line #22
+  second addition line #23
 Initial line #5
